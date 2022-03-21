@@ -9,7 +9,7 @@ const App = () => {
       <Inline /> 
       <StyleSheet secenek={false} />
       <Card veri={data} />
-      <h1>ekooooo</h1>
+      <h1>ekoo</h1>
       <ModuleBtn btnStyle="birinci" btnName="Kaydet" />
       <ModuleBtn btnStyle="ikinci" btnName="Sil" />
     </>
